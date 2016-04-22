@@ -57,5 +57,4 @@ while runflag:
     confd.close()  
 else:  
     print ('runflag#',runflag) 
-  
 print ('Done')  
